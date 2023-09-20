@@ -1,6 +1,6 @@
 {
   "name": "@ivaskevych-m/test-package",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/ivaskevych-m/test-package#readme",
   "publishConfig": {
     "@ivaskevych-m:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
