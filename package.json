@@ -18,9 +18,5 @@
   "homepage": "https://github.com/ivaskevych-m/test-package#readme",
   "publishConfig": {
     "@ivaskevych-m:registry": "https://npm.pkg.github.com"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
   }
 }
