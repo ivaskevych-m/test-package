@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/ivaskevych-m/test-package.git"
   },
-  "author": "",
+  "keywords": [
+    "DFG",
+    "widget",
+    "Casino"
+  ],
+  "author": "LSB Casino Team",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ivaskevych-m/test-package/issues"
