@@ -1,6 +1,6 @@
 {
   "name": "@ivaskevych-m/test-package",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,9 @@
     "url": "git+https://github.com/ivaskevych-m/test-package.git"
   },
   "keywords": [
-    "DFG",
-    "widget",
-    "Casino"
+    "widget"
   ],
-  "author": "LSB Casino Team",
+  "author": "@ivaskevych-m",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ivaskevych-m/test-package/issues"
